@@ -1,14 +1,9 @@
-# AmoghVeda Pixel-Close Final Landing Page
+# AmoghVeda Pixel-Close Final V2
 
-This is the pixel-close final production version based on the approved mockup:
-- Hair Mask as BESTSELLER and hero product
-- Shampoo as supporting product
-- Hair Mask is 10–15% larger in hero
-- Uses final uploaded bottle images
+Updates included:
+- Hero uses combined Hair Mask + Shampoo image
+- Shampoo badge: RECOMMENDED AFTER HAIR MASK
+- Product images are equal size in product cards
+- Benefits and buttons are aligned
+- Ingredient icons and Hair Care Ritual icons added
 - WhatsApp number: +91 88610 64303
-- Single page React/Vite website
-- Netlify-ready
-
-## Deployment
-Replace your existing GitHub repo files with this ZIP content and commit to main.
-Netlify will redeploy automatically.
