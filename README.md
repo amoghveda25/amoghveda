@@ -1,16 +1,14 @@
-# AmoghVeda Website
+# AmoghVeda Pixel-Close Final Landing Page
 
-## Deploy on Vercel
-1. Create a GitHub repository.
-2. Upload these files.
-3. Go to Vercel → Add New Project.
-4. Import the GitHub repo.
-5. Click Deploy.
+This is the pixel-close final production version based on the approved mockup:
+- Hair Mask as BESTSELLER and hero product
+- Shampoo as supporting product
+- Hair Mask is 10–15% larger in hero
+- Uses final uploaded bottle images
+- WhatsApp number: +91 88610 64303
+- Single page React/Vite website
+- Netlify-ready
 
-## Local run
-npm install
-npm run dev
-
-## Domain
-Vercel → Project → Settings → Domains → Add amoghveda.com
-Then update GoDaddy DNS as Vercel shows.
+## Deployment
+Replace your existing GitHub repo files with this ZIP content and commit to main.
+Netlify will redeploy automatically.
