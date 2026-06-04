@@ -1,16 +1,9 @@
-# AmoghVeda Website
+# AmoghVeda Pixel-Close Final V2
 
-## Deploy on Vercel
-1. Create a GitHub repository.
-2. Upload these files.
-3. Go to Vercel → Add New Project.
-4. Import the GitHub repo.
-5. Click Deploy.
-
-## Local run
-npm install
-npm run dev
-
-## Domain
-Vercel → Project → Settings → Domains → Add amoghveda.com
-Then update GoDaddy DNS as Vercel shows.
+Updates included:
+- Hero uses combined Hair Mask + Shampoo image
+- Shampoo badge: RECOMMENDED AFTER HAIR MASK
+- Product images are equal size in product cards
+- Benefits and buttons are aligned
+- Ingredient icons and Hair Care Ritual icons added
+- WhatsApp number: +91 88610 64303
